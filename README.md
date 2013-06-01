@@ -1,4 +1,4 @@
 yenc-go
 =======
 
-base91encoding with go
+yencoding with go
